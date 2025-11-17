@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: f71346230a18eb24c980e729e9db3c86
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5734946386906587497
+    second: T0G1Idle1
+  - first:
+      213: -9045204475848246722
+    second: T0G1Idle2
+  - first:
+      213: 7644567276134923272
+    second: T0G1Idle3
+  - first:
+      213: -5450629144660660942
+    second: T0G1Idle4
+  - first:
+      213: 2137295585843693573
+    second: T0G1Run1
+  - first:
+      213: 481424262434477661
+    second: T0G1Run2
+  - first:
+      213: -1072273588267001265
+    second: T0G1Run3
+  - first:
+      213: 4247191236184825017
+    second: T0G1Run4
+  - first:
+      213: 643757064308947111
+    second: T0G1Run5
+  - first:
+      213: -2369837507313360358
+    second: T0G1Run6
+  - first:
+      213: 3044947002149254608
+    second: T0G1Jump
+  - first:
+      213: 7606882038410729526
+    second: T0G1Land
+  - first:
+      213: 1648633510415155479
+    second: T0G1Crouch
+  - first:
+      213: -6740893980761517019
+    second: T0G1Attack1
+  - first:
+      213: 1082025483310828442
+    second: T0G1Attack2
+  - first:
+      213: -8184763394351934230
+    second: T0G1Attack3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: T0G1Idle1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 363
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9612a759a5f969f40800000000000000
+      internalID: 5734946386906587497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Idle2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 363
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3aba48e37af87280800000000000000
+      internalID: -9045204475848246722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Idle3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 363
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cf89b5f65f61a60800000000000000
+      internalID: 7644567276134923272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Idle4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 363
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2c1eeba97b54b0800000000000000
+      internalID: -5450629144660660942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 310
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508493ee20339ad10800000000000000
+      internalID: 2137295585843693573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 309
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5659a4e0dc5ea600800000000000000
+      internalID: 481424262434477661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 309
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4adf454ad48e11f0800000000000000
+      internalID: -1072273588267001265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 309
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd2fd3ded01fa30800000000000000
+      internalID: 4247191236184825017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 309
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a878c3a3a51fe800800000000000000
+      internalID: 643757064308947111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Run6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 309
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12a031d755ac1fd0800000000000000
+      internalID: -2369837507313360358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Jump
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 246
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d53ff66a23d14a20800000000000000
+      internalID: 3044947002149254608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Land
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 245
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63855c339e2119960800000000000000
+      internalID: 7606882038410729526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Crouch
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711c911617f11e610800000000000000
+      internalID: 1648633510415155479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Attack1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241428a3a88372a0800000000000000
+      internalID: -6740893980761517019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Attack2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 120
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b89aab170240f00800000000000000
+      internalID: 1082025483310828442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: T0G1Attack3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.1007012, y: 0.6655263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4580dbe01e96e80800000000000000
+      internalID: -8184763394351934230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
