@@ -1,0 +1,948 @@
+fileFormatVersion: 2
+guid: 89e192800bb80df4a86695db8bb31268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8572727383138584176
+    second: deatheffect_0
+  - first:
+      213: -2147894997157230073
+    second: deatheffect_1
+  - first:
+      213: -3274787967668906875
+    second: deatheffect_2
+  - first:
+      213: 4146360717407529411
+    second: deatheffect_3
+  - first:
+      213: -4984238356935709765
+    second: deatheffect_4
+  - first:
+      213: 6370010684326768261
+    second: deatheffect_5
+  - first:
+      213: 703881037762000964
+    second: deatheffect_6
+  - first:
+      213: 7903316128694293471
+    second: deatheffect_7
+  - first:
+      213: 135848788797406170
+    second: deatheffect_8
+  - first:
+      213: -7641203562731777373
+    second: deatheffect_9
+  - first:
+      213: 3862099302920952022
+    second: deatheffect_10
+  - first:
+      213: 4232827876980366353
+    second: deatheffect_11
+  - first:
+      213: -6878674669803644750
+    second: deatheffect_12
+  - first:
+      213: -1448505365215472118
+    second: deatheffect_13
+  - first:
+      213: -8772972232008367107
+    second: deatheffect_14
+  - first:
+      213: 7290476051820994967
+    second: deatheffect_15
+  - first:
+      213: 5429861008441813597
+    second: deatheffect_16
+  - first:
+      213: 3542013611923329754
+    second: deatheffect_17
+  - first:
+      213: -546881765114152291
+    second: deatheffect_18
+  - first:
+      213: -7531904396422726820
+    second: deatheffect_19
+  - first:
+      213: -5144454081706488107
+    second: deatheffect_20
+  - first:
+      213: -4778194791884006787
+    second: deatheffect_21
+  - first:
+      213: -732194941920980579
+    second: deatheffect_22
+  - first:
+      213: -658232539524394469
+    second: deatheffect_23
+  - first:
+      213: -6215759896025701768
+    second: deatheffect_24
+  - first:
+      213: 1664189657755485194
+    second: deatheffect_25
+  - first:
+      213: 3607654185817140165
+    second: deatheffect_26
+  - first:
+      213: -6788372396251789319
+    second: deatheffect_27
+  - first:
+      213: -4033451355134399510
+    second: deatheffect_28
+  - first:
+      213: -7463021544540762981
+    second: deatheffect_29
+  - first:
+      213: -429540746519919479
+    second: deatheffect_30
+  - first:
+      213: -6460380092359532429
+    second: deatheffect_31
+  - first:
+      213: -195148720232302828
+    second: deatheffect_32
+  - first:
+      213: -1664075625588010941
+    second: deatheffect_33
+  - first:
+      213: -288458220344578695
+    second: deatheffect_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: deatheffect_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2140
+        width: 166
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0764d3c722278f670800000000000000
+      internalID: 8572727383138584176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_1
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2157
+        width: 165
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aca9f41e42132e0800000000000000
+      internalID: -2147894997157230073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_2
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 2157
+        width: 170
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5841f58a1bd9d82d0800000000000000
+      internalID: -3274787967668906875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_3
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2157
+        width: 162
+        height: 261
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9a5b7aa15da8930800000000000000
+      internalID: 4146360717407529411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_4
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 2140
+        width: 166
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb68fa3f9d64dab0800000000000000
+      internalID: -4984238356935709765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_5
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1631
+        width: 166
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e6db6b7f2d66850800000000000000
+      internalID: 6370010684326768261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_6
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1631
+        width: 165
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ffe31310b4c900800000000000000
+      internalID: 703881037762000964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1631
+        width: 169
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3507e35283ead60800000000000000
+      internalID: 7903316128694293471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_8
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1631
+        width: 162
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbbf6fe0c1a2e100800000000000000
+      internalID: 135848788797406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_9
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1631
+        width: 165
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a25ce238ddf4f590800000000000000
+      internalID: -7641203562731777373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1120
+        width: 163
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d813ed8adee89530800000000000000
+      internalID: 3862099302920952022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_11
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1120
+        width: 165
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c19c217860eba30800000000000000
+      internalID: 4232827876980366353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_12
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1120
+        width: 162
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b850e425d90a80a0800000000000000
+      internalID: -6878674669803644750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_13
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 1148
+        width: 162
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06951b7b00e5ebe0800000000000000
+      internalID: -1448505365215472118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_14
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1152
+        width: 165
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df386c67c34204680800000000000000
+      internalID: -8772972232008367107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_15
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 640
+        width: 159
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7916840b759fc2560800000000000000
+      internalID: 7290476051820994967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_16
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 636
+        width: 162
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a2beb81ddba5b40800000000000000
+      internalID: 5429861008441813597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_17
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 639
+        width: 163
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2d9481d92c72130800000000000000
+      internalID: 3542013611923329754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_18
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 640
+        width: 170
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7b30aee51968f0800000000000000
+      internalID: -546881765114152291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_19
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 2651
+        width: 166
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b35017bdc497790800000000000000
+      internalID: -7531904396422726820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_20
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 2654
+        width: 166
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de8398e44a3b98b0800000000000000
+      internalID: -5144454081706488107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_21
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 2655
+        width: 163
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ad12a172170bdb0800000000000000
+      internalID: -4778194791884006787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2651
+        width: 162
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9156746498b6d5f0800000000000000
+      internalID: -732194941920980579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_23
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2655
+        width: 163
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b129b062efc7dd6f0800000000000000
+      internalID: -658232539524394469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3150
+        width: 163
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e44c9e4f2db9a0800000000000000
+      internalID: -6215759896025701768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_25
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3150
+        width: 163
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04056d2da3681710800000000000000
+      internalID: 1664189657755485194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 3150
+        width: 163
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbe41a2e56f01230800000000000000
+      internalID: 3607654185817140165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_27
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 3167
+        width: 163
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7485e954bdac1a0800000000000000
+      internalID: -6788372396251789319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_28
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 3167
+        width: 159
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb6566dc5d4608c0800000000000000
+      internalID: -4033451355134399510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_29
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 3658
+        width: 173
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c8f8e22750e6890800000000000000
+      internalID: -7463021544540762981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_30
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 3660
+        width: 163
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984cf1387f6f90af0800000000000000
+      internalID: -429540746519919479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_31
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 3649
+        width: 152
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370a7e8d88e1856a0800000000000000
+      internalID: -6460380092359532429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_32
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3652
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177e2cd541ba4df0800000000000000
+      internalID: -195148720232302828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_33
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3652
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d071090408e8e0800000000000000
+      internalID: -1664075625588010941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: deatheffect_34
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 579
+        width: 224
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97de1d3e6c03ffbf0800000000000000
+      internalID: -288458220344578695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
