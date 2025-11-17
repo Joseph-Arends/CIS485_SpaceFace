@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 6d41ad60f3631d74d9decddd134bb528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1369340027882373377
+    second: Bloat_Walk_1
+  - first:
+      213: -7090956859210232510
+    second: Bloat_Walk_2
+  - first:
+      213: 905514767098721440
+    second: Bloat_Walk_3
+  - first:
+      213: -4139591200343273940
+    second: Bloat_Walk_4
+  - first:
+      213: 3609526469895180455
+    second: Bloat_Walk_5
+  - first:
+      213: 579218101287439464
+    second: Bloat_Walk_6
+  - first:
+      213: 5969298263906137800
+    second: Bloat_Idle_1
+  - first:
+      213: 4199415391086435927
+    second: Bloat_Idle_2
+  - first:
+      213: -4285977845159105120
+    second: Bloat_Idle_3
+  - first:
+      213: 4297439036026290019
+    second: Bloat_Sprite Sheet_14
+  - first:
+      213: -101473116661131702
+    second: Bloat_Sprite Sheet_15
+  - first:
+      213: -8325443607907064363
+    second: Bloat_Sprite Sheet_16
+  - first:
+      213: -6749047865958070212
+    second: Bloat_Sprite Sheet_17
+  - first:
+      213: -6133661631344965873
+    second: Bloat_Sprite Sheet_18
+  - first:
+      213: -2513471436874247662
+    second: Bloat_End_Attack_2
+  - first:
+      213: -4969164085364670591
+    second: Bloat_End_Attack_1
+  - first:
+      213: 1070233450558590342
+    second: Bloat_Start_Attack_3
+  - first:
+      213: -4697535708816774113
+    second: Bloat_Start_Attack_2
+  - first:
+      213: 3353261479694186359
+    second: Bloat_Start_Attack_1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bloat_Walk_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1578
+        width: 345
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffef85def702ffce0800000000000000
+      internalID: -1369340027882373377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Walk_2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1579
+        width: 344
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d87295e4cd79d90800000000000000
+      internalID: -7090956859210232510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Walk_3
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 1579
+        width: 344
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a43acf02e8019c00800000000000000
+      internalID: 905514767098721440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Walk_4
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1578
+        width: 344
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ec43c5cb73d86c0800000000000000
+      internalID: -4139591200343273940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Walk_5
+      rect:
+        serializedVersion: 2
+        x: 2386
+        y: 1578
+        width: 344
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0d875433d971230800000000000000
+      internalID: 3609526469895180455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Walk_6
+      rect:
+        serializedVersion: 2
+        x: 3213
+        y: 1578
+        width: 344
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86cc6b65bcbc90800800000000000000
+      internalID: 579218101287439464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 935
+        width: 345
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c63b72f42537d250800000000000000
+      internalID: 5969298263906137800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 935
+        width: 345
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ed30a7c02574a30800000000000000
+      internalID: 4199415391086435927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 935
+        width: 345
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade810abd52584c0800000000000000
+      internalID: -4285977845159105120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 1102
+        width: 463
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7e32d80293ab30800000000000000
+      internalID: 4297439036026290019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_End_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212150c8b0b5e1dd0800000000000000
+      internalID: -2513471436874247662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_End_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 39
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fb535979bf90bb0800000000000000
+      internalID: -4969164085364670591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Start_Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 39
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d094727ab3ade00800000000000000
+      internalID: 1070233450558590342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Start_Attack_2
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 38
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c634459200fceb0800000000000000
+      internalID: -4697535708816774113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bloat_Start_Attack_1
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 38
+        width: 464
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7773c28ac8d298e20800000000000000
+      internalID: 3353261479694186359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
